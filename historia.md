@@ -1,1 +1,1 @@
-A terra esta sendo invadida por Aliens.Voce deve salvar o planeta
+A terra esta sendo invadida por Aliens. Voce deve salvar o planeta
