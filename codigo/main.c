@@ -1,2 +1,2 @@
-// Codigo do Jogo
+// Codigo do jogo
 // funcao de movimento da nave
